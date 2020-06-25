@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CoronaTracker/static/css/main.d0240a96.chunk.css",
+    "main.js": "/CoronaTracker/static/js/main.906f1a53.chunk.js",
+    "main.js.map": "/CoronaTracker/static/js/main.906f1a53.chunk.js.map",
+    "runtime-main.js": "/CoronaTracker/static/js/runtime-main.c2155eb9.js",
+    "runtime-main.js.map": "/CoronaTracker/static/js/runtime-main.c2155eb9.js.map",
+    "static/js/2.02ff2bc9.chunk.js": "/CoronaTracker/static/js/2.02ff2bc9.chunk.js",
+    "static/js/2.02ff2bc9.chunk.js.map": "/CoronaTracker/static/js/2.02ff2bc9.chunk.js.map",
+    "index.html": "/CoronaTracker/index.html",
+    "precache-manifest.783dde3b7c58f3fdd3b5100d400017e0.js": "/CoronaTracker/precache-manifest.783dde3b7c58f3fdd3b5100d400017e0.js",
+    "service-worker.js": "/CoronaTracker/service-worker.js",
+    "static/css/main.d0240a96.chunk.css.map": "/CoronaTracker/static/css/main.d0240a96.chunk.css.map",
+    "static/js/2.02ff2bc9.chunk.js.LICENSE.txt": "/CoronaTracker/static/js/2.02ff2bc9.chunk.js.LICENSE.txt",
+    "static/media/india.jpg": "/CoronaTracker/static/media/india.ef1e27ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2155eb9.js",
+    "static/js/2.02ff2bc9.chunk.js",
+    "static/css/main.d0240a96.chunk.css",
+    "static/js/main.906f1a53.chunk.js"
+  ]
+}

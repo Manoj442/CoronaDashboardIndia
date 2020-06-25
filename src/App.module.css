@@ -1,0 +1,21 @@
+.tableAndDropDown{
+    display:flex;
+    flex-direction: row;
+}
+.cardsAndDropDown{
+    display:flex;
+}
+.regionalHistoricChart{
+    display: flex;
+}
+@media screen and (max-width:800px){
+    .tableAndDropDown{
+        display: block;
+    } 
+    .cardsAndDropDown{
+        display:block;
+    } 
+    .regionalHistoricChart{
+        display: block;
+    }
+}

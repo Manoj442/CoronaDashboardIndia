@@ -1,0 +1,67 @@
+.lineChartDimension{
+    height:50%;   
+    width:40%;
+    margin-top: 2%;
+}
+.pieChartDimension{
+    height:50%;    
+    width:50%;
+    margin-top: 2%;
+}
+.apexLineChartDimension{
+    height:auto;     
+    width:40%;
+    margin-top: 2%;
+    padding-left: 2%;
+    padding-right: 1%;
+}
+.tableContainer{
+    width:52% !important;
+    margin:2% !important;
+    max-height: 60vh;
+}
+.table{
+    width:52% !important;   
+}
+.donutChart{
+    height:auto;     
+    width:auto;
+    margin-top: 5.4%;   
+    padding-right: 1%;
+}
+@media only screen  and (max-width:800px){
+    .lineChartDimension{
+        height:auto;
+        width:auto;    
+        margin-top: 2%;   
+    }
+    .pieChartDimension{
+        height:auto;
+        width:auto; 
+        margin-top: 2%;       
+    }
+    .apexLineChartDimension{
+        height:auto;             
+        width:auto;
+        margin-top: 2%;   
+        padding-left: 2%;  
+        padding-right: 2%; 
+    } 
+    .tableContainer{
+        width:auto !important;
+        margin:2% !important;
+        max-height: 35vh;       
+    }
+    .table{
+        width:auto !important
+    }
+    .donutChart{
+        height:auto;             
+        width:auto;
+        margin-top: 2%;   
+        padding-left: 2%;  
+        padding-right: 2%;       
+    }   
+  }  
+
+

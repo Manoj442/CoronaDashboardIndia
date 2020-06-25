@@ -1,0 +1,27 @@
+.countryDropdownContainer{
+    margin:2% !important;     
+  }
+.regionLabel{
+  font-family: 'Poppins', sans-serif;
+  color:#6c757d
+}
+.countryDropdown{
+  font-family: 'Poppins', sans-serif !important;
+    color:#6c757d;
+    background-color: lightgray;  
+}
+  @media screen and (max-width:800px){
+    .countryDropdownContainer{
+      margin:2% !important;    
+      padding-left: 2.5% !important;        
+      }
+      .regionLabel{
+        font-family: 'Poppins', sans-serif;
+        color:#6c757d
+      }
+      .countryDropdown{
+        font-family: 'Poppins', sans-serif !important;
+          color:#6c757d;
+          background-color: lightgray;  
+      }
+  } 
