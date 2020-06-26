@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+This is Corona Dashboard which was developed using reactjs to track the Corona cases in India.
+
+### Libraries used
+React-apexcharts
+Axios
+react-countup
+@material-ui/core
+
+### Demo
+Please see the demo here https://manoj442.github.io/CoronaTracker/.
